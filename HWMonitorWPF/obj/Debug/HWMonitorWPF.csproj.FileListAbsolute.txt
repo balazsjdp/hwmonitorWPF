@@ -1,0 +1,16 @@
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\bin\Debug\HWMonitorWPF.exe.config
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\bin\Debug\HWMonitorWPF.exe
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\bin\Debug\HWMonitorWPF.pdb
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF.csprojAssemblyReference.cache
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\App.g.cs
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF_MarkupCompile.cache
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF_MarkupCompile.lref
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\MainWindow.baml
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF.g.resources
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF.Properties.Resources.resources
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF.csproj.GenerateResource.cache
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF.exe
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF.pdb
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\114horvath\source\repos\HWMonitorWPF\HWMonitorWPF\obj\Debug\HWMonitorWPF.csproj.CopyComplete
